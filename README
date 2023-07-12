@@ -1,0 +1,42 @@
+Snake Game: Gameplay Upgrade and Game Experience Research
+This project aims to enhance the gameplay of the classic "Snake Game" using the Unity game engine and C/C++ programming language. It also involves setting up an experimental environment to test and analyze the game experience. The project was led by Brighton in the United Kingdom from October 2021 to May 2022.
+
+Project Overview
+The project encompasses the following key aspects:
+
+Gameplay Development: The game is developed using HTML5 technology and WebGL rendering API in a JavaScript program. Unity is utilized to upload the game files to a web page. Additionally, an SQL database is employed to analyze user-generated data during gameplay, ensuring smooth browser-based gaming experience.
+
+Game Experience Research: An experimental setup is created with 2-8 different options. The project records game duration, key press frequency, and other relevant data. In-depth analysis of the collected data reveals insights into the impact of the number of options on the game experience. The research findings suggest that having too many options can make it difficult for players to control the game, while too few options reduce player interest. It is concluded that providing six options offers an optimal game experience.
+
+Directory Structure
+./src: Contains the source code files of the upgraded Snake Game.
+./web: Includes the necessary files to upload the game files to a web page.
+./database: Contains files related to the SQL database for data analysis.
+./experiment: Stores the collected data and analysis results from the game experience research.
+./docs: Contains project documentation and the research paper.
+Usage Instructions
+Follow the steps below to run and use this project:
+
+Clone this repository to your local machine: git clone https://github.com/your-username/project-name.git
+Install the Unity game engine and C/C++ programming language to ensure the development environment is properly set up.
+Run the source code files located in the ./src directory and modify the gameplay as desired.
+Use Unity to upload the game files to a web page, ensuring the game runs smoothly in a web browser.
+Set up the experimental environment, record player-generated data during gameplay, and save it in the SQL database located in the ./database directory.
+Analyze the data and obtain research results. The data analysis scripts and result reports can be found in the ./experiment directory.
+Contributions
+Contributions to this project are welcome! If you wish to contribute, please follow these steps:
+
+Fork this project to your GitHub account.
+Create a new branch: git checkout -b feature/your-feature
+Commit your changes: git commit -m 'Add some feature'
+Push to the branch: git push origin feature/your-feature
+Submit a pull request, and await review and merge by the project maintainers.
+License
+[Choose an appropriate license type and provide license information]
+
+Related Documents
+Please refer to the project documentation and research paper stored in the ./docs directory for more detailed information and research findings related to this project.
+
+For any questions or inquiries, please contact the project lead, Brighton, based in the United Kingdom.
+
+Thank you for your interest and support in this project!
